@@ -1,0 +1,4 @@
+rootProject.name = 'ex_11_testes_unitario_junit'
+include 'src:main:teste'
+findProject(':src:main:teste')?.name = 'teste'
+

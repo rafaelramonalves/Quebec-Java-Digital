@@ -10,7 +10,7 @@ public class ExStreamApi {
         List<String> numerosAleatorios =
                 Arrays.asList("1", "0", "4", "1", "2","3",
                 "9","9","6","5");
-
+        
         System.out.println("Imprima todos os elemtnso dessa lista de String");
         /*
 
