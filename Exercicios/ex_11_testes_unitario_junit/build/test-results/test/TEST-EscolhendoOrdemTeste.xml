@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="EscolhendoOrdemTeste" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-11-10T19:10:06" hostname="RAFAEL" time="0.016">
+<testsuite name="EscolhendoOrdemTeste" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-11-11T11:48:43" hostname="RAFAEL" time="0.015">
   <properties/>
-  <testcase name="validaFluxoB()" classname="EscolhendoOrdemTeste" time="0.014"/>
-  <testcase name="validaFluxoD()" classname="EscolhendoOrdemTeste" time="0.001"/>
-  <testcase name="validaFluxoA()" classname="EscolhendoOrdemTeste" time="0.0"/>
+  <testcase name="A" classname="EscolhendoOrdemTeste" time="0.013"/>
+  <testcase name="validaFluxoB()" classname="EscolhendoOrdemTeste" time="0.001"/>
   <testcase name="validaFluxoC()" classname="EscolhendoOrdemTeste" time="0.0"/>
+  <testcase name="validaFluxoD()" classname="EscolhendoOrdemTeste" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
